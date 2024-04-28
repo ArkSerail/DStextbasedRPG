@@ -1,5 +1,5 @@
-from levels.Level_class import Level
-#from Level_class import Level
+#from levels.Level_class import Level
+from Level_class import Level
 
 
 def level_two():
