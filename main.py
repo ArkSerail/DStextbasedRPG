@@ -1,6 +1,7 @@
 ######## Input & Output 
 from cutscenes.intro import intro 
 from levels.level_one_class import level_one
+from levels.level_two_class import level_two
 import os
 import platform
 
@@ -69,4 +70,7 @@ if __name__ == "__main__":
 #    clear_screen()
 #    level_one_decision()
     level_one()
+    input("")
+    clear_screen()
+    level_two()
     input("")
