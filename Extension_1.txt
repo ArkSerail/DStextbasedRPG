@@ -1,0 +1,6 @@
+Was ist eine Fehlerbehandlung?
+Fehlerbehandlung in Python ist wie ein Sicherheitsnetz, das dich vor Fehlern schützt und dir hilft, Probleme in deinem Programm zu lösen.
+Stell dir vor, du baust einen Turm aus Bauklötzen und manchmal fallen ein paar herunter. 
+Die Fehlerbehandlung hilft dir, diese heruntergefallenen Bauklötze aufzufangen und den Turm stabil zu halten.
+
+-> Implementierungen von try/catch in main.py (main-methode)

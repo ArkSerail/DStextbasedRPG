@@ -54,8 +54,6 @@ def clear_screen():
     if platform.system() == "Linux":
         os.system('clear')
 
-
-
 if __name__ == "__main__":
 
     clear_screen()

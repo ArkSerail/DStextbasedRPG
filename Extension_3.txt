@@ -1,0 +1,9 @@
+Was sind Klassen?
+
+Stell dir vor, eine Klasse in Python ist wie eine Bauanleitung für ein bestimmtes Objekt. Zum Beispiel könnten wir eine Klasse für Autos haben, die beschreibt, wie ein Auto aussieht und wie es funktioniert.
+In der Klasse werden die Eigenschaften und Verhaltensweisen des Objekts definiert. Zum Beispiel könnten die Eigenschaften eines Autos die Farbe, die Marke und die Höchstgeschwindigkeit sein. Das Verhalten eines Autos könnte das Starten des Motors, das Beschleunigen und das Bremsen sein.
+Wenn wir eine Klasse für Autos haben, können wir daraus verschiedene Autos erstellen, die auf dieser Bauanleitung basieren. Jedes Auto, das wir erstellen, wird als "Instanz" der Klasse betrachtet und hat seine eigenen spezifischen Eigenschaften und Verhaltensweisen.
+Insgesamt ist eine Klasse in Python also wie eine Bauanleitung, die uns hilft, Objekte mit bestimmten Eigenschaften und Verhaltensweisen zu erstellen. Es ist eine strukturierte Möglichkeit, Dinge zu beschreiben und zu organisieren, ähnlich wie eine Anleitung zum Zusammenbauen von LEGO-Bausteinen.
+
+
+-> Implementierung von der Klasse Level (Fortgeschritten!)

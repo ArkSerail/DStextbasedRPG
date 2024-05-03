@@ -1,0 +1,40 @@
+Was ist programmieren?
+
+Programmierung ist wie das Schreiben von Anweisungen für den Computer, damit er bestimmte Aufgaben ausführen kann. 
+Stell dir vor, du gibst einem Roboter Schritt-für-Schritt-Anweisungen, wie er sich bewegen soll. 
+In der Programmierung benutzt man eine spezielle Sprache, wie zum Beispiel Python, um dem Computer zu sagen, was er tun soll.
+
+Mit Programmierung kannst du Spiele erstellen, Roboter steuern, Websites designen und vieles mehr!
+Es ist wie das Lösen eines Rätsels oder das Spielen eines Videospiels, bei dem du die Regeln bestimmst.
+Programmierung ist eine kreative und logische Tätigkeit, die dir hilft, Probleme zu lösen und deine Ideen zum Leben zu erwecken. 
+
+Warum python?
+
+1. Einfach zu lernen:
+Python ist eine benutzerfreundliche Sprache, die leicht zu erlernen und zu verstehen ist. Die klare und einfache Sprache macht es auch für Anfänger zugänglich.
+
+2. Vielseitig einsetzbar: 
+Python kann für viele verschiedene Anwendungen verwendet werden, wie z.B. Webentwicklung, Datenanalyse, künstliche Intelligenz, Spieleentwicklung und vieles mehr.
+
+3. Eine der größten Sprachen: 
+Python hat eine große und aktive Gemeinschaft, die sich gegenseitig unterstützen und Ressourcen teilen. Das bedeutet, dass du leicht Hilfe findest.
+
+4. Plattformunabhängig: 
+Python läuft auf verschiedenen Betriebssystemen wie Windows, Mac und Linux. Du kannst also deine Programme auf verschiedenen Geräten ausführen, ohne große Anpassungen vornehmen zu müssen.
+
+5. Schnelle Entwicklung: 
+Mit Python kannst du schnell Prototypen und Projekte entwickeln, da die Sprache eine hohe Produktivität und Effizienz bietet. Das spart Zeit und ermöglicht es dir, Ideen schnell umzusetzen.
+
+Was ist Eingabe und was ist Ausgabe?
+In der Programmierung sprechen wir von Eingabe, wenn Informationen in vorm von Daten in den Computer eingehen und von Ausgabe, wenn Informationen weitergereicht werden, z.b. an den Bildschirm.
+
+-> Hello World Beispiel
+
+Was sind Variablen?
+Variablen in Python sind wie Behälter, in denen wir Informationen speichern können.
+Stell dir vor, du hast ein Korb in denen Sachen aufbewahrst.
+In Python können wir eine Variable wie einen Korb betrachten, in der wir Werte wie Zahlen, Text oder andere Daten speichern können.
+
+-> Start Menu implementieren
+-> ASCII Zeichen (https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20)
+

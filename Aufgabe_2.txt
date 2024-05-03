@@ -1,0 +1,20 @@
+Was sind Fuktionen?
+Stell dir vor, eine Funktion in Python ist wie eine Aufgabe, die du dem Computer beibringst. 
+Du gibst der Funktion bestimmte Anweisungen und sie führt sie für dich aus, wenn du sie aufrufst. 
+Funktionen helfen dir, deinen Code zu organisieren und bestimmte Aufgaben zu wiederholen, ohne alles immer wieder von vorne schreiben zu müssen.
+
+-> Erstellung von print_logo()
+-> Erstellung von outro()
+
+Was sind Bedingungen?
+-> Exkurs zu bing copilot -> "Wie schreibe ich in python eine bedigung"
+
+Stell dir vor, du hast eine Schatzkiste und möchtest entscheiden, ob du sie öffnen sollst oder nicht. 
+In Python können wir Bedingungen verwenden, um Entscheidungen zu treffen, basierend auf bestimmten Regeln.
+
+
+Was sind Befehle?
+In Python können wir Befehle verwenden, um mit dem Computer zu sprechen und ihm zu sagen, was er tun soll. 
+Plattform-Befehle sind spezielle Befehle, die uns helfen, mit dem Betriebssystem zu interagieren, auf dem unser Programm läuft.
+
+-> Erstellung von clear_screen()

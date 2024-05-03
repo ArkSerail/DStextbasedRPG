@@ -1,0 +1,13 @@
+Animationen
+Aus Spielen kennst du unterschiedlichste Animationen, Bewegung des Charakters, Darstellung von Angriffen, Gespräche zwischen Figuren, etc...
+Animationen werden in der Regel nicht von einem Programmierer erstellt, sondern von einem Animator.
+Der Programierer wiederum kümmert sich darum, dass diese Animationen ins Spiel eingefügt werden.
+
+
+Was ist eine Schleife?
+ Du kannst dem Computer sagen, dass er bestimmte Aktionen immer wieder ausführen soll, bis eine bestimmte Bedingung erfüllt ist. 
+ Es ist eine Anweisung, die den Computer dazu bringt, Dinge zu wiederholen, ohne dass du sie jedes Mal neu schreiben musst.
+
+-> Implementierung von text_animation()
+-> Implementierung einer while-schleife
+-> Exkurs Debugging (schleife)

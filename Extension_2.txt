@@ -1,0 +1,29 @@
+Was sind Module in python?
+ Stell dir vor, ein Modul in Python ist wie eine Werkzeugkiste, in der verschiedene Werkzeuge für spezielle Aufgaben enthalten sind. 
+ Jedes Werkzeug erledigt eine bestimmte Aufgabe und kann von dir verwendet werden, wenn du es brauchst.
+
+Wie bekomme ich Module?
+Um Module in Python zu installieren, kannst du die sogenannte "Paketverwaltung" verwenden. Das klingt vielleicht kompliziert, aber es ist eigentlich ganz einfach!
+
+    - Öffne das Kommando fenster
+    - Gebe den Befehl: pip install <modulname> ein (beispiel: pip install pygame)
+
+Python kümmert sich nun um alles und du kannst das Modul/deine Werkzeugkiste verwenden!
+
+Wie verwende ich Module?
+Um Module verwenden zu können, können wir diese einfach am Anfang der Datei mittels "import" in unsere Datei einbinden.
+Das haben wir vorhin schon für die Module os und plattform mit gemacht. 
+Wenn wir nun ein neues Modul einbinden möchten, z.b. pygame können wir einfach "import pygame" oben mit angeben und schon können wir die Funktionen von pygame verwenden.
+
+ -> implementierung von intro_music()
+    - Installiere pygame
+    - Importiere pygame in deine Datei
+    - Such dir eine MP3 Datei die du abspielen möchtest
+    - Speichere sie neben deine python file
+    - Implementiere folgenden Code:
+        file = '<deine_mp3>.mp3'
+        pygame.init()
+        pygame.mixer.init()
+        pygame.mixer.music.load(file)
+        pygame.mixer.music.play()
+    - Verwende die neue Funktion um die mp3 datei abzuspielen!

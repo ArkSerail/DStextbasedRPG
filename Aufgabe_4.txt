@@ -1,0 +1,27 @@
+Erstellung von einem Charakter
+
+-> Implementierung von character_name()
+    - Frage mittels print() nach dem Namen des Charakters
+    - Fange den eingegebenen Namen mittels input() ab
+    - Schreibe mittels print() den eingegeben Charakter namen erneut
+
+Was ist eine globale Variable?
+Globale Variablen können überall im Programm verwendet werden. Sie unterscheiden sich von den variablen die wir in Funktionen verwenden, da diese nur bei der Funktionsausführung benutzt werden.
+
+-> Erweiterung der character_name() Funktion
+    - Erstelle eine neue Variable CHARACTER_NAME am Anfang des Dokuments mit dem Anfangswert: "Hanswurst"
+    - innerhalb der Funktion definiere folgende Zeile:
+        global CHARACTER_NAME
+    - Fange den eingegebenen Namen mittels input() ab
+    - Speichere den abgefangenen Namen in die CHARACTER_NAME variable
+
+-> Implementierung von get_character_name()
+    - Schreibe eine neue Funktion get_character_name()
+    - Gebe die CHARACTER_NAME mittels print() aus
+
+Erstellung vom ersten Level
+
+-> level text in variable speichern
+-> Entscheidung & Optionen in variable speichern
+-> Beide variable mittels der text_animation() function ausgeben lassen
+-> Bedingungen festlegen (if/else)
